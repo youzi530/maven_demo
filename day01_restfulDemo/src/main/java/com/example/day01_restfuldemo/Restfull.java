@@ -2,7 +2,7 @@ package com.example.day01_restfuldemo;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/restfull")
+@RequestMapping("/restful")
 public class Restfull {
 
     /**
