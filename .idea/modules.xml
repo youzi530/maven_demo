@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day01_restfulDemo/day01_restfulDemo.iml" filepath="$PROJECT_DIR$/day01_restfulDemo/day01_restfulDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_rpcDemo/day02_rpcDemo.iml" filepath="$PROJECT_DIR$/day02_rpcDemo/day02_rpcDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven_demo.iml" filepath="$PROJECT_DIR$/maven_demo.iml" />
     </modules>
   </component>
